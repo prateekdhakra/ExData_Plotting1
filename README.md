@@ -1,7 +1,8 @@
 ## Introduction
 This Project was completed to fulfil the requirements of Assignment 1 for the "Exploratory Data Analysis" by Roger Peng on Coursera.com.
 
-Detailed descriptions of the data used are provided below. But the commits so far contain 4 plots and the code required to generate them:
+The code asssumes that the data is available in a path folder in a file called "household_power_consumption.txt".
+Detailed descriptions of the data used are provided below. But the commits so far contain 4 plot png files and the code required to generate them:
 
 ### Plot 1
 A histogram showing the frequencies in magnitude of Global active power used in the two February days we are interested in.
